@@ -163,6 +163,3 @@ ollama serve
 
 Verify your API key is correct in the `.env` file.
 
-## License
-
-MIT
